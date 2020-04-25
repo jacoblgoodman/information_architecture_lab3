@@ -80,7 +80,29 @@ git push -u origin <branchname> #push your changes to a new remote branch
 
 ### 1.6 Merge changes 
 
-Open a pull request on the repo www.github.com/jacoblgoodman/>
+Open a pull request on the repo www.github.com/jacoblgoodman/{repo}>
+
+![pull request](img/GitHub-pullrequest-newpr.png)
+
+
+
+select the branch that you pushed
+
+![select branch](img/GitHub-pullrequest-branch.png)
+
+resolve and conflicts
+
+![conflicts]( img/GitHub-pullrequest-resolve .png)
+
+commit the merge and close the Pull Request
+
+![commit]( img/GitHub-pullrequest-commit.png)
+
+
+Congradulations youre now a git colaborator 
+
+
+## 2. script: download date from API and save to S3:
 
 
 
@@ -88,11 +110,22 @@ Open a pull request on the repo www.github.com/jacoblgoodman/>
 
 
 
-2. Create web-scraper to load csv file into S3 Bucket
-3. Run and update web-scraper to iterate through all records stored on the Charities Bureau Website
+
+
+
+
+
+
+
+
+
+
+Create web-scraper to load csv file into S3 Bucket
+
+9. Run and update web-scraper to iterate through all records stored on the Charities Bureau Website
 
     1.0 Create GitHub Branch and Repo and Add Team (2 pts.) 
-In this portion of the lab, you will create a GitHub branch to manage your code across your group. You should nominate 
+    In this portion of the lab, you will create a GitHub branch to manage your code across your group. You should nominate 
     • Step 1. Use your GitHub account to create a new branch and repository and input the relevant code. 
         ◦ Step 1.1 Title the branch after your group and the lab (e.g., “Group_1_Lab_03”)
     • Step 2. Enable for cloning for your team and have each team member clone repository to their local GitHub instance
