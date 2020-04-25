@@ -57,7 +57,7 @@ GitHub desktop:
 
 ```
 
-hey group now we know how to merge our work together
+looking a how to merge files 
 
 
 ```
