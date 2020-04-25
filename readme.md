@@ -56,9 +56,11 @@ GitHub desktop:
 * **Modify the text in the  box below put a message to your group,**
 
 ```
+adding above
 
 looking a how to merge files 
 
+and below
 
 ```
 * Save the file
