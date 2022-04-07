@@ -1,4 +1,5 @@
 # Groupname = 2022-spring-Group5
+# Lab3 group assignment
 #!/usr/bin/env python
 # coding: utf-8
 
