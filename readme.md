@@ -1,3 +1,10 @@
+# Group5 - Lab3 Exercise
+
+ |   Name        |     Email        | 
+---------------------------------------
+ | Mahlet Melese| Melese@mail.yu.edu| 
+
+ |  Yihang Sun  | ysun5@mail.yu.edu | 
 
 # Lab #3: Develop Code Repository and Push Commits 
 
